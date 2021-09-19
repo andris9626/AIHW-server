@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  server.c
+D:\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+  Generating Code...
+  server.vcxproj -> D:\AIMotiveHW\server\Debug\server.exe
